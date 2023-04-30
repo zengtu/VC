@@ -1,0 +1,37 @@
+﻿生成启动时间为 2023/2/9 21:29:10。
+     1>项目“D:\osgt\OSG_MFC\OSG_MFC\OSG_MFC.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\OSG_MFC.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\OSG_MFC.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "Conduit .cpp" Explosion.cpp Fire.cpp MainFrm.cpp MFC_OSG.cpp OSG_MFC.cpp OSG_MFCDoc.cpp OSG_MFCView.cpp Smoke.cpp
+         Smoke.cpp
+         OSG_MFCView.cpp
+         OSG_MFCDoc.cpp
+         OSG_MFC.cpp
+         MFC_OSG.cpp
+         MainFrm.cpp
+         Fire.cpp
+         Explosion.cpp
+         Conduit .cpp
+         正在生成代码...
+       ResourceCompile:
+         D:\Program Files\Microsoft Visual Studio 14.0\VC\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\OSG_MFC.res" OSG_MFC.rc 
+       Link:
+         D:\Program Files\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\osgt\OSG_MFC\Debug\OSG_MFC.exe" /INCREMENTAL:NO /NOLOGO osgDBd.lib osgviewerd.lib osgd.lib osgGAd.lib osgAnimationd.lib OpenThreadsd.lib osgFXd.lib osgManipulatord.lib osgParticled.lib osgPresentationd.lib osgShadowd.lib osgSimd.lib osgTerraind.lib osgTextd.lib osgUId.lib osgUtild.lib osgWidgetd.lib osgVolumed.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files\Microsoft Visual Studio 14.0\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"D:\osgt\OSG_MFC\Debug\OSG_MFC.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\osgt\OSG_MFC\Debug\OSG_MFC.lib" /MACHINE:X86 /SAFESEH OpenThreadsd.lib osgd.lib osgDBd.lib osgFXd.lib osgGAd.lib osgManipulatord.lib osgParticled.lib osgShadowd.lib osgSimd.lib osgTerraind.lib osgTextd.lib osgUtild.lib osgViewerd.lib Debug\OSG_MFC.res
+         "Debug\Conduit .obj"
+         Debug\Explosion.obj
+         Debug\Fire.obj
+         Debug\MainFrm.obj
+         Debug\MFC_OSG.obj
+         Debug\OSG_MFC.obj
+         Debug\OSG_MFCDoc.obj
+         Debug\OSG_MFCView.obj
+         Debug\Smoke.obj
+         Debug\stdafx.obj
+     1>Conduit .obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:LBR”规范)
+         OSG_MFC.vcxproj -> D:\osgt\OSG_MFC\Debug\OSG_MFC.exe
+     1>已完成生成项目“D:\osgt\OSG_MFC\OSG_MFC\OSG_MFC.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:38.90
